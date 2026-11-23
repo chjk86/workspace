@@ -1,0 +1,1289 @@
+{
+ "nodes": [
+  {
+   "id": "P:정인보",
+   "label": "정인보",
+   "group": "person"
+  },
+  {
+   "id": "W:남유기신",
+   "label": "남유기신",
+   "group": "work"
+  },
+  {
+   "id": "L:서울",
+   "label": "서울",
+   "group": "place",
+   "existence": "",
+   "lat": 37.55,
+   "lng": 126.97
+  },
+  {
+   "id": "L:청주",
+   "label": "청주",
+   "group": "place",
+   "existence": "",
+   "lat": 36.65,
+   "lng": 127.39
+  },
+  {
+   "id": "L:미원",
+   "label": "미원",
+   "group": "place",
+   "existence": "",
+   "lat": 36.63,
+   "lng": 127.68
+  },
+  {
+   "id": "L:청천",
+   "label": "청천",
+   "group": "place",
+   "existence": "",
+   "lat": 36.66,
+   "lng": 127.75
+  },
+  {
+   "id": "L:현천",
+   "label": "현천",
+   "group": "place",
+   "existence": "",
+   "lat": 36.68,
+   "lng": 127.79
+  },
+  {
+   "id": "L:경천벽",
+   "label": "경천벽",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.68,
+   "lng": 127.8
+  },
+  {
+   "id": "L:화양계당",
+   "label": "화양계당",
+   "group": "place",
+   "existence": "현전",
+   "lat": 36.67,
+   "lng": 127.81
+  },
+  {
+   "id": "L:채운암",
+   "label": "채운암",
+   "group": "place",
+   "existence": "부존",
+   "lat": 36.67,
+   "lng": 127.81
+  },
+  {
+   "id": "L:암서재",
+   "label": "암서재",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.67,
+   "lng": 127.81
+  },
+  {
+   "id": "L:환장암",
+   "label": "환장암",
+   "group": "place",
+   "existence": "현전",
+   "lat": 36.67,
+   "lng": 127.81
+  },
+  {
+   "id": "L:와룡암",
+   "label": "와룡암",
+   "group": "place",
+   "existence": "",
+   "lat": 36.67,
+   "lng": 127.82
+  },
+  {
+   "id": "L:학소대",
+   "label": "학소대",
+   "group": "place",
+   "existence": "",
+   "lat": 36.66,
+   "lng": 127.82
+  },
+  {
+   "id": "L:파곶",
+   "label": "파곶",
+   "group": "place",
+   "existence": "",
+   "lat": 36.66,
+   "lng": 127.83
+  },
+  {
+   "id": "L:공림사",
+   "label": "공림사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.63,
+   "lng": 127.82
+  },
+  {
+   "id": "L:북가추리",
+   "label": "북가추리",
+   "group": "place",
+   "existence": "",
+   "lat": 36.56,
+   "lng": 127.83
+  },
+  {
+   "id": "L:법주사",
+   "label": "법주사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.54,
+   "lng": 127.83
+  },
+  {
+   "id": "L:수정봉",
+   "label": "수정봉",
+   "group": "place",
+   "existence": "",
+   "lat": 36.54,
+   "lng": 127.83
+  },
+  {
+   "id": "L:법주사 벽암대사비",
+   "label": "법주사 벽암대사비",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.54,
+   "lng": 127.83
+  },
+  {
+   "id": "L:복천암",
+   "label": "복천암",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.55,
+   "lng": 127.85
+  },
+  {
+   "id": "L:보현재",
+   "label": "보현재",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.56,
+   "lng": 127.85
+  },
+  {
+   "id": "L:중사자암",
+   "label": "중사자암",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.56,
+   "lng": 127.85
+  },
+  {
+   "id": "L:문장대",
+   "label": "문장대",
+   "group": "place",
+   "existence": "",
+   "lat": 36.57,
+   "lng": 127.86
+  },
+  {
+   "id": "L:원종왕비 구씨 원당",
+   "label": "원종왕비 구씨 원당",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:학조 수암 부도밭",
+   "label": "학조 수암 부도밭",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.55,
+   "lng": 127.85
+  },
+  {
+   "id": "L:상환암",
+   "label": "상환암",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.55,
+   "lng": 127.86
+  },
+  {
+   "id": "L:말티고개",
+   "label": "말티고개",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.5,
+   "lng": 127.79
+  },
+  {
+   "id": "L:보은읍",
+   "label": "보은읍",
+   "group": "place",
+   "existence": "",
+   "lat": 36.48,
+   "lng": 127.72
+  },
+  {
+   "id": "L:청산",
+   "label": "청산",
+   "group": "place",
+   "existence": "",
+   "lat": 36.35,
+   "lng": 127.79
+  },
+  {
+   "id": "L:솔티재",
+   "label": "솔티재",
+   "group": "place",
+   "existence": "",
+   "lat": 36.24,
+   "lng": 127.88
+  },
+  {
+   "id": "L:영동 주막",
+   "label": "영동 주막",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:금호강",
+   "label": "금호강",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:대구역",
+   "label": "대구역",
+   "group": "place",
+   "existence": "",
+   "lat": 35.88,
+   "lng": 128.6
+  },
+  {
+   "id": "L:대구 여관",
+   "label": "대구 여관",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:대전",
+   "label": "대전",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:관촉사",
+   "label": "관촉사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 36.19,
+   "lng": 127.11
+  },
+  {
+   "id": "L:오강리 윤석오 집",
+   "label": "오강리 윤석오 집",
+   "group": "place",
+   "existence": "",
+   "lat": 36.26,
+   "lng": 127.07
+  },
+  {
+   "id": "L:정읍 주막",
+   "label": "정읍 주막",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:내장사",
+   "label": "내장사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.49,
+   "lng": 126.9
+  },
+  {
+   "id": "L:구암사",
+   "label": "구암사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.46,
+   "lng": 126.89
+  },
+  {
+   "id": "L:운문암",
+   "label": "운문암",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.46,
+   "lng": 126.87
+  },
+  {
+   "id": "L:청류암",
+   "label": "청류암",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.44,
+   "lng": 126.87
+  },
+  {
+   "id": "L:봉황대",
+   "label": "봉황대",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:백양사",
+   "label": "백양사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.44,
+   "lng": 126.88
+  },
+  {
+   "id": "L:운암리 운교장",
+   "label": "운암리 운교장",
+   "group": "place",
+   "existence": "부존",
+   "lat": 35.5,
+   "lng": 127.02
+  },
+  {
+   "id": "L:쌍구정",
+   "label": "쌍구정",
+   "group": "place",
+   "existence": "현전",
+   "lat": 35.54,
+   "lng": 127.01
+  },
+  {
+   "id": "L:낙덕정",
+   "label": "낙덕정",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.44,
+   "lng": 126.97
+  },
+  {
+   "id": "L:순창읍",
+   "label": "순창읍",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:관음사",
+   "label": "관음사",
+   "group": "place",
+   "existence": "부존",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:남산대 신경준 고택",
+   "label": "남산대 신경준 고택",
+   "group": "place",
+   "existence": "현전",
+   "lat": 35.37,
+   "lng": 127.14
+  },
+  {
+   "id": "L:귀래정",
+   "label": "귀래정",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.37,
+   "lng": 127.14
+  },
+  {
+   "id": "L:응향각",
+   "label": "응향각",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.37,
+   "lng": 127.14
+  },
+  {
+   "id": "L:순창 여사",
+   "label": "순창 여사",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:광한루",
+   "label": "광한루",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.4,
+   "lng": 127.38
+  },
+  {
+   "id": "L:만인총",
+   "label": "만인총",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.42,
+   "lng": 127.38
+  },
+  {
+   "id": "L:순자강",
+   "label": "순자강",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:묵용실",
+   "label": "묵용실",
+   "group": "place",
+   "existence": "부존",
+   "lat": 35.28,
+   "lng": 127.29
+  },
+  {
+   "id": "L:구례읍",
+   "label": "구례읍",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:화엄사",
+   "label": "화엄사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.26,
+   "lng": 127.5
+  },
+  {
+   "id": "L:천은사",
+   "label": "천은사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 35.27,
+   "lng": 127.48
+  },
+  {
+   "id": "L:월곡",
+   "label": "월곡",
+   "group": "place",
+   "existence": "현전",
+   "lat": 35.25,
+   "lng": 127.46
+  },
+  {
+   "id": "L:순천",
+   "label": "순천",
+   "group": "place",
+   "existence": "",
+   "lat": null,
+   "lng": null
+  },
+  {
+   "id": "L:종고산",
+   "label": "종고산",
+   "group": "place",
+   "existence": "",
+   "lat": 34.75,
+   "lng": 127.73
+  },
+  {
+   "id": "L:충민사",
+   "label": "충민사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 34.76,
+   "lng": 127.73
+  },
+  {
+   "id": "L:석천사",
+   "label": "석천사",
+   "group": "place",
+   "existence": "현존",
+   "lat": 34.76,
+   "lng": 127.73
+  },
+  {
+   "id": "L:여수항",
+   "label": "여수항",
+   "group": "place",
+   "existence": "현존",
+   "lat": 34.74,
+   "lng": 127.73
+  },
+  {
+   "id": "L:백야도",
+   "label": "백야도",
+   "group": "place",
+   "existence": "",
+   "lat": 34.62,
+   "lng": 127.64
+  },
+  {
+   "id": "L:나로도",
+   "label": "나로도",
+   "group": "place",
+   "existence": "",
+   "lat": 34.46,
+   "lng": 127.45
+  },
+  {
+   "id": "L:지호도",
+   "label": "지호도",
+   "group": "place",
+   "existence": "",
+   "lat": 34.44,
+   "lng": 127.3
+  },
+  {
+   "id": "L:고금도",
+   "label": "고금도",
+   "group": "place",
+   "existence": "",
+   "lat": 34.42,
+   "lng": 126.79
+  },
+  {
+   "id": "L:완도",
+   "label": "완도",
+   "group": "place",
+   "existence": "",
+   "lat": 34.32,
+   "lng": 126.76
+  },
+  {
+   "id": "L:벽파진",
+   "label": "벽파진",
+   "group": "place",
+   "existence": "",
+   "lat": 34.54,
+   "lng": 126.34
+  },
+  {
+   "id": "L:울두목",
+   "label": "울두목",
+   "group": "place",
+   "existence": "",
+   "lat": 34.57,
+   "lng": 126.3
+  },
+  {
+   "id": "L:목포관",
+   "label": "목포관",
+   "group": "place",
+   "existence": "",
+   "lat": 34.79,
+   "lng": 126.39
+  },
+  {
+   "id": "L:나주",
+   "label": "나주",
+   "group": "place",
+   "existence": "",
+   "lat": 35.01,
+   "lng": 126.72
+  },
+  {
+   "id": "O:동아일보",
+   "label": "동아일보",
+   "group": "org"
+  },
+  {
+   "id": "P:안재홍",
+   "label": "안재홍",
+   "group": "person"
+  },
+  {
+   "id": "P:노병권",
+   "label": "노병권",
+   "group": "person"
+  },
+  {
+   "id": "P:윤석오",
+   "label": "윤석오",
+   "group": "person"
+  },
+  {
+   "id": "P:신경준",
+   "label": "신경준",
+   "group": "person"
+  },
+  {
+   "id": "P:설씨부인",
+   "label": "설씨부인",
+   "group": "person"
+  },
+  {
+   "id": "W:부도암 개건 권선문",
+   "label": "부도암 개건 권선문",
+   "group": "work"
+  },
+  {
+   "id": "P:정일우",
+   "label": "정일우",
+   "group": "person"
+  },
+  {
+   "id": "P:정일택",
+   "label": "정일택",
+   "group": "person"
+  }
+ ],
+ "edges": [
+  {
+   "from": "P:정인보",
+   "to": "W:남유기신",
+   "label": "저술",
+   "source": "기본"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:서울",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:청주",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:미원",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:청천",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:현천",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:경천벽",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:화양계당",
+   "label": "방문",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:채운암",
+   "label": "유숙",
+   "date": "1934-07-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:암서재",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:환장암",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:와룡암",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:학소대",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:파곶",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:채운암",
+   "label": "방문",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:공림사",
+   "label": "유숙",
+   "date": "1934-07-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:북가추리",
+   "label": "방문",
+   "date": "1934-07-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:법주사",
+   "label": "방문",
+   "date": "1934-07-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:수정봉",
+   "label": "방문",
+   "date": "1934-07-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:법주사 벽암대사비",
+   "label": "방문",
+   "date": "1934-07-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:법주사",
+   "label": "유숙",
+   "date": "1934-07-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:복천암",
+   "label": "방문",
+   "date": "1934-07-17",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:보현재",
+   "label": "방문",
+   "date": "1934-07-17",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:중사자암",
+   "label": "유숙",
+   "date": "1934-07-17",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:문장대",
+   "label": "방문",
+   "date": "1934-07-17",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:원종왕비 구씨 원당",
+   "label": "방문",
+   "date": "1934-07-18",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:학조 수암 부도밭",
+   "label": "방문",
+   "date": "1934-07-18",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:상환암",
+   "label": "방문",
+   "date": "1934-07-18",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:말티고개",
+   "label": "방문",
+   "date": "1934-07-20",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:보은읍",
+   "label": "방문",
+   "date": "1934-07-20",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:청산",
+   "label": "유숙",
+   "date": "1934-07-20",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:솔티재",
+   "label": "방문",
+   "date": "1934-07-23",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:영동 주막",
+   "label": "유숙",
+   "date": "1934-07-23",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:금호강",
+   "label": "방문",
+   "date": "1934-07-24",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:대구역",
+   "label": "방문",
+   "date": "1934-07-24",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:대구 여관",
+   "label": "유숙",
+   "date": "1934-07-24",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:대전",
+   "label": "방문",
+   "date": "1934-07-25",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:관촉사",
+   "label": "방문",
+   "date": "1934-07-25",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:오강리 윤석오 집",
+   "label": "유숙",
+   "date": "1934-07-25",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:정읍 주막",
+   "label": "유숙",
+   "date": "1934-07-26",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:내장사",
+   "label": "유숙",
+   "date": "1934-07-27",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:구암사",
+   "label": "유숙",
+   "date": "1934-08-01",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:운문암",
+   "label": "방문",
+   "date": "1934-08-03",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:청류암",
+   "label": "유숙",
+   "date": "1934-08-03",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:봉황대",
+   "label": "방문",
+   "date": "1934-08-04",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:백양사",
+   "label": "방문",
+   "date": "1934-08-04",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:운암리 운교장",
+   "label": "유숙",
+   "date": "1934-08-05",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:쌍구정",
+   "label": "방문",
+   "date": "1934-08-06",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:낙덕정",
+   "label": "방문",
+   "date": "1934-08-06",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:순창읍",
+   "label": "방문",
+   "date": "1934-08-06",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:관음사",
+   "label": "유숙",
+   "date": "1934-08-06",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:남산대 신경준 고택",
+   "label": "방문",
+   "date": "1934-08-07",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:귀래정",
+   "label": "방문",
+   "date": "1934-08-07",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:응향각",
+   "label": "방문",
+   "date": null,
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:순창 여사",
+   "label": "유숙",
+   "date": "1934-08-08",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:광한루",
+   "label": "방문",
+   "date": "1934-08-08",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:만인총",
+   "label": "방문",
+   "date": "1934-08-08",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:순자강",
+   "label": "방문",
+   "date": "1934-08-08",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:묵용실",
+   "label": "유숙",
+   "date": "1934-08-08",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:구례읍",
+   "label": "방문",
+   "date": "1934-08-09",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:화엄사",
+   "label": "유숙",
+   "date": "1934-08-09",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:천은사",
+   "label": "유숙",
+   "date": "1934-08-12",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:월곡",
+   "label": "방문",
+   "date": "1934-08-13",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:순천",
+   "label": "방문",
+   "date": "1934-08-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:종고산",
+   "label": "방문",
+   "date": "1934-08-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:충민사",
+   "label": "방문",
+   "date": "1934-08-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:석천사",
+   "label": "방문",
+   "date": "1934-08-14",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:여수항",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:백야도",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:나로도",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:지호도",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:고금도",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:완도",
+   "label": "방문",
+   "date": "1934-08-15",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:벽파진",
+   "label": "방문",
+   "date": "1934-08-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:울두목",
+   "label": "방문",
+   "date": "1934-08-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:목포관",
+   "label": "유숙",
+   "date": "1934-08-16",
+   "source": "여정 시트"
+  },
+  {
+   "from": "P:정인보",
+   "to": "L:나주",
+   "label": "유숙",
+   "date": "1934-08-17",
+   "source": "여정 시트"
+  },
+  {
+   "from": "O:동아일보",
+   "to": "W:남유기신",
+   "label": "연재",
+   "source": "연재 목록 시트",
+   "note": "1934-07-31 ~ 1934-09-29"
+  },
+  {
+   "from": "P:안재홍",
+   "to": "L:수정봉",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:노병권",
+   "to": "L:수정봉",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:윤석오",
+   "to": "L:수정봉",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:안재홍",
+   "to": "L:문장대",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:노병권",
+   "to": "L:문장대",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:윤석오",
+   "to": "L:문장대",
+   "label": "동행(확인 필요)",
+   "source": "여정 시트 비고",
+   "note": "샘플"
+  },
+  {
+   "from": "P:윤석오",
+   "to": "L:오강리 윤석오 집",
+   "label": "거처",
+   "source": "여정 시트",
+   "note": "샘플"
+  },
+  {
+   "from": "P:신경준",
+   "to": "L:남산대 신경준 고택",
+   "label": "고택",
+   "source": "여정 시트",
+   "note": "샘플"
+  },
+  {
+   "from": "P:설씨부인",
+   "to": "L:남산대 신경준 고택",
+   "label": "관련 유지",
+   "source": "여정 시트 현대주소",
+   "note": "샘플"
+  },
+  {
+   "from": "P:설씨부인",
+   "to": "W:부도암 개건 권선문",
+   "label": "저술",
+   "source": "연재 목록 제30·31신 부제",
+   "note": "샘플"
+  },
+  {
+   "from": "W:남유기신",
+   "to": "W:부도암 개건 권선문",
+   "label": "수록",
+   "source": "연재 목록 제30·31신 부제",
+   "note": "샘플"
+  },
+  {
+   "from": "P:정일우",
+   "to": "L:묵용실",
+   "label": "소장처",
+   "source": "동아일보 1932.09.29 기사(비정근거)",
+   "note": "샘플"
+  },
+  {
+   "from": "P:정일택",
+   "to": "L:묵용실",
+   "label": "소장처",
+   "source": "동아일보 1932.09.29 기사(비정근거)",
+   "note": "샘플"
+  }
+ ]
+}

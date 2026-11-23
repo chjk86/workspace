@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>남유기신 지식그래프 뷰어</title>
+  <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="title">
+      <h1>남유기신 <small>南遊寄信 · 정인보, 1934</small></h1>
+      <p class="sub">『동아일보』 연재 호남 유람기의 여정과 관계망</p>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="map" aria-selected="true">여정 지도</button>
+      <button role="tab" data-tab="graph" aria-selected="false">관계 네트워크</button>
+      <button role="tab" data-tab="letters" aria-selected="false">연재 목록</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- 여정 지도 + 타임라인 -->
+    <section id="tab-map" class="tab active">
+      <div id="map"></div>
+      <aside class="panel">
+        <div class="controls">
+          <div class="daybar">
+            <button id="play" title="날짜 순서대로 재생">▶ 재생</button>
+            <input id="day" type="range" min="0" max="0" value="0" aria-label="날짜">
+            <button id="all" title="전체 여정 보기">전체</button>
+          </div>
+          <div id="daylabel" class="daylabel">전체 여정</div>
+          <div class="legend">
+            <span><i class="dot visit"></i>경유</span>
+            <span><i class="dot stay"></i>유숙</span>
+            <span><i class="dot nocoord"></i>좌표 미상</span>
+          </div>
+        </div>
+        <ol id="timeline" class="timeline"></ol>
+      </aside>
+    </section>
+
+    <!-- 관계 네트워크 -->
+    <section id="tab-graph" class="tab">
+      <div id="network"></div>
+      <aside class="panel">
+        <div class="controls">
+          <div id="groupfilters" class="filters"></div>
+          <label class="check"><input type="checkbox" id="hideTrip"> 여정(방문·유숙) 관계 숨기기</label>
+          <input id="search" type="search" placeholder="노드 찾기 (예: 법주사)">
+        </div>
+        <div id="nodeinfo" class="nodeinfo"><p class="muted">노드를 누르면 연결된 관계가 여기에 나옵니다.</p></div>
+      </aside>
+    </section>
+
+    <!-- 연재 목록 -->
+    <section id="tab-letters" class="tab">
+      <div class="letters-wrap">
+        <table class="letters">
+          <thead><tr><th>게재일</th><th>회차</th><th>부제</th><th>비고</th></tr></thead>
+          <tbody id="letters"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="lib/leaflet/leaflet.js"></script>
+  <script src="lib/vis-network/vis-network.min.js"></script>
+  <script src="lib/korea-outline.js"></script>
+  <script src="data/data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
