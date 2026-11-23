@@ -27,6 +27,7 @@ body { display: flex; flex-direction: column; }
 main { flex: 1; min-height: 0; position: relative; }
 .tab { display: none; height: 100%; }
 .tab.active { display: flex; }
+#map { background: #dfe6ea; }
 #map, #network { flex: 1; min-width: 0; height: 100%; }
 #network { background: #fff; }
 

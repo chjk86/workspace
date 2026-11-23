@@ -35,12 +35,19 @@
   const visits = DATA.visits;
   const located = visits.filter((v) => v.lat != null && v.lng != null);
 
-  const map = L.map("map", { zoomControl: true, preferCanvas: false });
+  const map = L.map("map", { zoomControl: true, preferCanvas: false }).setView([36, 127.5], 7);
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     subdomains: "abcd",
     maxZoom: 19,
   }).addTo(map);
+  // 오프라인(발표장 등)에서도 윤곽이 보이도록 해안선을 깔아 둔다
+  if (window.KOREA_GEO) {
+    L.geoJSON(window.KOREA_GEO, {
+      interactive: false,
+      style: { color: "#a69f92", weight: 1, fillColor: "#ece7dd", fillOpacity: 0.55 },
+    }).addTo(map);
+  }
 
   // 같은 장소(이름+좌표)는 마커 하나로 묶는다
   const placeKey = (v) => `${v.place}|${v.lat}|${v.lng}`;
